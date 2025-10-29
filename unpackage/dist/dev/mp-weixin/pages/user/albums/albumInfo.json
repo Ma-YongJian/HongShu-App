@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-navigation-bar": "/node-modules/thorui-uni/lib/thorui/tui-navigation-bar/tui-navigation-bar",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "tui-grid": "/node-modules/thorui-uni/lib/thorui/tui-grid/tui-grid",
+    "tui-grid-item": "/node-modules/thorui-uni/lib/thorui/tui-grid-item/tui-grid-item",
+    "tui-button": "/node-modules/thorui-uni/lib/thorui/tui-button/tui-button",
+    "tui-bottom-popup": "/node-modules/thorui-uni/lib/thorui/tui-bottom-popup/tui-bottom-popup"
+  }
+}

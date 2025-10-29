@@ -1,0 +1,216 @@
+.user-content.data-v-ee130b04 {
+	margin-top: 35rpx;
+	margin-bottom: 40rpx;
+	margin-left: 60rpx;
+}
+.name.data-v-ee130b04 {
+	margin-top: 10rpx;
+	margin-left: 75px;
+	font-size: 30rpx;
+}
+.user-id.data-v-ee130b04 {
+	margin-top: 10rpx;
+	margin-left: 75px;
+	color: rgba(51, 51, 51, 0.6);
+}
+.ip.data-v-ee130b04 {
+	margin-left: 75px;
+	color: rgba(51, 51, 51, 0.6);
+}
+.descrpition.data-v-ee130b04 {
+	margin-top: 20rpx;
+	font-size: 25rpx;
+	color: #5c5c5c;
+}
+.descrpition-null.data-v-ee130b04 {
+	font-size: 25rpx;
+	color: rgba(51, 51, 51, 0.6);
+}
+.f.data-v-ee130b04{
+	font-size: 22rpx;
+}
+.content.data-v-ee130b04 {
+	position: relative;
+	width: 100%;
+	background-color: #f4f4f4;
+}
+.top.data-v-ee130b04 {
+	position: relative;
+	height: 60rpx;
+	z-index: 9999;
+}
+.top .right.data-v-ee130b04 {
+	padding-top: 5px;
+	display: flex;
+	justify-content: end;
+}
+.top .right .item.data-v-ee130b04 {
+	margin-right: 15rpx;
+}
+.fixed-top.data-v-ee130b04{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 5px;
+	-webkit-animation: fixed-top-data-v-ee130b04 0.5s;
+}
+@-webkit-keyframes fixed-top-data-v-ee130b04{
+0%{ -webkit-transform:translateY(-30rpx); opacity:0;}
+}
+.fixed-user.data-v-ee130b04{
+	
+	display: flex;
+	align-items: center;
+}
+.fixed-user .avatar.data-v-ee130b04{
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%
+}
+.fixed-user  .username.data-v-ee130b04{
+	font-size: 28rpx;
+}
+.content .image.data-v-ee130b04 {
+	position: relative;
+	top: -200rpx;
+}
+.content .image image.data-v-ee130b04 {
+	width: 100%;
+}
+.content .main.data-v-ee130b04 {
+	position: relative;
+	top: -200rpx;
+	width: 100%;
+	z-index: 22;
+}
+.content .main .top.data-v-ee130b04 {
+	width: 100%;
+	height: 340rpx;
+	display: block;
+	background-color: #fff;
+	border-radius: 10px;
+}
+.content .main .top .user.data-v-ee130b04 {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 200rpx;
+}
+.content .main .top .user .user-left.data-v-ee130b04 {
+	width: 500rpx;
+}
+.content .main .top .user .user-left image.data-v-ee130b04 {
+	position: absolute;
+	left: 60rpx;
+	top: -50rpx;
+	width: 120rpx;
+	height: 120rpx;
+	border-radius: 50%
+}
+
+/* .user-content {
+	margin-top: 80rpx;
+	margin-left: 60rpx;
+
+} */
+
+/* .user-id {
+	margin-top: 5rpx;
+	margin-bottom: 5rpx;
+	color: #5c5c5c;
+} */
+
+/* .f{
+	font-size: 28rpx;
+} */
+.content .main .top .user .user-right.data-v-ee130b04 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 80rpx;
+	margin-right: 20rpx;
+	/* width: 200rpx; */
+}
+.user-message.data-v-ee130b04{
+	 width: 80rpx;
+	 height: 60rpx;
+	 text-align: center;
+	 background-color: #f0f0f0;
+	 line-height: 60rpx;
+	 border-radius: 14px;
+	 margin-right: 5px;
+}
+.content .main .top .user .user-right button.data-v-ee130b04 {
+	height: 60rpx;
+	width: 150rpx;
+	background-color: #ff0000;
+	font-size: 16px;
+	color: #fff;
+	line-height: 60rpx;
+	border-radius: 10px;
+}
+.content .main .top .info.data-v-ee130b04 {
+	display: flex;
+	height: 100rpx;
+	margin-left: 80rpx;
+	margin-right: 80rpx;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 28rpx;
+}
+.nologin.data-v-ee130b04 {
+	padding-top: 120rpx;
+}
+.nologin button.data-v-ee130b04 {
+
+	width: 300rpx;
+	height: 80rpx;
+	color: #fff;
+	background-color: #ff0000;
+	border-radius: 20px;
+	line-height: 80rpx;
+}
+.info.data-v-ee130b04 {
+	display: flex;
+	justify-content: space-around;
+	background-color: #fff;
+	/* padding: 10rpx; */
+	border-radius: 100rpx;
+	box-shadow: 0 5rpx 10rpx rgba(0, 0, 0, 0.1);
+	margin: 10rpx;
+}
+.info-item.data-v-ee130b04 {
+	text-align: center;
+	cursor: pointer;
+	flex: 1;
+}
+.info-title.data-v-ee130b04 {
+	font-size: 28rpx;
+	color: #666;
+	margin-bottom: 10rpx;
+}
+.info-count.data-v-ee130b04 {
+	font-size: 36rpx;
+	font-weight: bold;
+	color: #333;
+}
+.follow.data-v-ee130b04:hover,
+.fan.data-v-ee130b04:hover,
+.trend.data-v-ee130b04:hover {
+	-webkit-transform: translateY(-2rpx);
+	        transform: translateY(-2rpx);
+	transition: -webkit-transform 0.2s ease-in-out;
+	transition: transform 0.2s ease-in-out;
+	transition: transform 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
+}
+.follow .info-count.data-v-ee130b04 {
+	color: #1e90ff; /* 蓝色 */
+}
+.fan .info-count.data-v-ee130b04 {
+	color: #ff6347; /* 番茄红 */
+}
+.trend .info-count.data-v-ee130b04 {
+	color: #32cd32; /* 黄绿色 */
+}
+

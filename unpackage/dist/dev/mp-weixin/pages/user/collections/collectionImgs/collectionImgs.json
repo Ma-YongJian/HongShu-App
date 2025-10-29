@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-toast": "/node-modules/thorui-uni/lib/thorui/tui-toast/tui-toast",
+    "water-fall": "/components/waterfall"
+  }
+}

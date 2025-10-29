@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-tabs": "/node-modules/thorui-uni/lib/thorui/tui-tabs/tui-tabs",
+    "collection-album": "/pages/user/collections/collectionAlbums/collectionAlbums",
+    "collection-img": "/pages/user/collections/collectionImgs/collectionImgs"
+  }
+}

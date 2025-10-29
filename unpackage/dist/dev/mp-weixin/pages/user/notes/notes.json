@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pp-waterfall-flow": "/uni_modules/pp-waterfall-flow/components/pp-waterfall-flow/pp-waterfall-flow"
+  }
+}

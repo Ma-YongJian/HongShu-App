@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-divider": "/node-modules/thorui-uni/lib/thorui/tui-divider/tui-divider"
+  }
+}

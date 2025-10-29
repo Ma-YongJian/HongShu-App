@@ -1,0 +1,125 @@
+._ul.data-v-682a9774{
+	padding: 0;
+}
+._li.data-v-682a9774 {
+	list-style: none;
+}
+.content .head.data-v-682a9774 {
+	margin-top: 10rpx;
+	position: relative;
+	height: 80rpx;
+}
+.tui-search-box.data-v-682a9774 {
+	width: 95%;
+	height: 32px;
+	margin: 0 28rpx;
+	border-radius: 18px;
+	font-size: 14px;
+	background-color: #f1f1f1;
+	padding: 0 12px;
+	box-sizing: border-box;
+	color: #bfbfbf;
+	display: flex;
+	align-items: center;
+}
+.content .head .search.data-v-682a9774 {
+	margin-left: 40rpx;
+	margin-top: 10rpx;
+}
+.content .head .search-input.data-v-682a9774 {
+	position: absolute;
+	width: 500rpx;
+	height: 60rpx;
+	background-color: #f1f1f1;
+	padding-left: 10px;
+	border-radius: 15px;
+}
+.content .head button.data-v-682a9774 {
+	position: absolute;
+	left: 580rpx;
+	width: 120rpx;
+	height: 60rpx;
+	background-color: #ec2124;
+	font-size: 14px;
+	color: #fff;
+	line-height: 60rpx;
+}
+.content .main.data-v-682a9774 {
+	display: flex;
+}
+.item-left.data-v-682a9774{
+	padding-top: 10rpx;
+	width: 180rpx;
+	height: 80rpx;
+	background-color: #f8f8f8;
+	display: flex;
+	align-items: center;
+}
+.activated.data-v-682a9774{
+	color: #ec2124;
+	background-color: #fff;
+}
+.item-left .item-box.data-v-682a9774{
+	 width: 95%;
+	 margin: auto;
+	 height: 40rpx;
+	 font-size: 32rpx;
+	 text-align: center;
+}
+.box-activated.data-v-682a9774{
+	 border-left: 2px solid;
+}
+.content .main .left.data-v-682a9774 {
+	width: 140rpx;
+}
+.right .r-head.data-v-682a9774 {
+	
+	height: 250rpx;
+}
+.right .r-head .r-h-item.data-v-682a9774 {
+	float: left;
+	margin-left: 20rpx;
+	font-size: 28rpx;
+}
+._p.data-v-682a9774 {
+	text-align: center;
+}
+image.data-v-682a9774 {
+	width: 260rpx;
+	height: 180rpx;
+	border-radius: 8px
+}
+.r-category .r-c-top.data-v-682a9774 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 20rpx;
+	margin-right: 20rpx;
+}
+.r-category .r-c-top-left.data-v-682a9774::before{
+	content: "|";
+	color: #ec2124;
+	font-weight: bold;
+}
+.r-category .r-c-top-right.data-v-682a9774{
+	color: #e84d74;
+	font-size: 28rpx;
+	display: flex;
+	align-items: center;
+}
+.r-category .r-c-main .tui-grid.data-v-682a9774 {
+	font-size: 28rpx;
+	padding: 5px;
+}
+.r-autor .r-a-top.data-v-682a9774 {
+	margin-left: 20rpx;
+}
+.r-autor .r-a-main image.data-v-682a9774 {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%
+}
+.r-autor .r-a-main .card.data-v-682a9774 {
+	text-align: center;
+}
+

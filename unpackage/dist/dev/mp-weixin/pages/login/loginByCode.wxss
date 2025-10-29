@@ -1,0 +1,26 @@
+.container.data-v-7fedd35e {
+	padding: 100rpx 100rpx;
+}
+.top.data-v-7fedd35e {
+	padding-top: 40px;
+}
+.title.data-v-7fedd35e {
+	text-align: center;
+	font-size: 30px;
+}
+.main.data-v-7fedd35e {
+	margin-top: 300rpx;
+}
+.info-input.data-v-7fedd35e {
+	margin-top: 10px;
+	height: 60rpx;
+	border-bottom: 1px solid #f4f4f4;
+}
+.code.data-v-7fedd35e {
+	display: flex;
+	align-items: center;
+}
+.regist.data-v-7fedd35e {
+	margin-top: 20px;
+}
+

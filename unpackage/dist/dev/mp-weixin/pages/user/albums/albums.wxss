@@ -1,0 +1,32 @@
+.container.data-v-08a73838 {
+
+	margin-top: 40rpx;
+}
+image.data-v-08a73838 {
+	width: 340rpx;
+	height: 400rpx;
+}
+.content .create.data-v-08a73838 {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.create-btn.data-v-08a73838{
+	display: flex;
+	justify-content: center;
+}
+.main .tui-grid.data-v-08a73838 {
+	padding: 10rpx 20rpx;
+}
+.main .tui-grid .card.data-v-08a73838 {
+	background-color: #fff;
+	width: 340rpx;
+	height: 550rpx;
+}
+.main .card .cont.data-v-08a73838 {
+	margin-left: 10px;
+}
+.main .card .cont ._p.data-v-08a73838 {
+	margin-top: 5px;
+	font-size: 12px;
+}
+

@@ -1,0 +1,256 @@
+._ul.data-v-4d5c45ee {
+	padding: 0rpx;
+}
+._li.data-v-4d5c45ee {
+	list-style: none;
+}
+
+/* 添加 Swiper 的样式 */
+
+/* .swiper-container {
+	width: 100%;
+	height: 300px;
+}
+
+.image-container {
+	width: 100%;
+	height: 100%;
+}
+
+.fadeImg {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+} */
+.image-container.data-v-4d5c45ee {
+    position: relative;
+}
+
+/* 图片淡入淡出 */
+.fadeImg.data-v-4d5c45ee {
+width: 100px;
+height: 100px;
+background: #fff;
+-webkit-animation: fadeinout-data-v-4d5c45ee 2s linear forwards;
+animation: fadeinout-data-v-4d5c45ee 2s linear forwards;
+}
+.overlay.data-v-4d5c45ee {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 97%;
+	height: 97%;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 8px;
+}
+.sign.data-v-4d5c45ee {
+	position: absolute;
+	bottom: 95rpx;
+	left: 80rpx;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 8px;
+}
+.more-text.data-v-4d5c45ee {
+	color: white;
+	font-size: 20px;
+}
+.nav.data-v-4d5c45ee {
+	margin-top: 2rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center; /* 水平居中 */
+	font-weight: bold; /* 加粗 */
+}
+.container.data-v-4d5c45ee {
+	background-color: #fff;
+	margin-top: 10rpx;
+}
+.page.data-v-4d5c45ee {
+	height: 95vh;
+}
+.item.data-v-4d5c45ee {
+	background-color: #fff;
+	border-bottom: 1px solid #f4f4f4;
+}
+._li.data-v-4d5c45ee:not(:first-child) {
+	margin-top: 5px;
+}
+.avatar-user.data-v-4d5c45ee {
+	display: flex;
+	align-items: center;
+	margin-left: 10px;
+	padding-top: 10px;
+}
+.avatar-user image.data-v-4d5c45ee {
+	width: 65rpx;
+	height: 65rpx;
+	border-radius: 50%;
+}
+.name.data-v-4d5c45ee {
+	margin-left: 5px;
+	font-size: 30rpx;
+}
+.time.data-v-4d5c45ee {
+	color: #9c9c9c;
+	font-size: 24rpx;
+	margin-left: 5px;
+}
+.main.data-v-4d5c45ee {
+	padding-top: 12px;
+}
+.img-list.data-v-4d5c45ee {
+	margin-left: 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.img-list image.data-v-4d5c45ee {
+	width: 220rpx;
+	height: 240rpx;
+	margin-right: 5px;
+	border-radius: 8px;
+}
+.collection-album.data-v-4d5c45ee {
+	display: flex;
+	height: 60rpx;
+	align-items: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	justify-content: space-between;
+}
+.collection-album .left.data-v-4d5c45ee {
+	display: flex;
+	align-items: center;
+	font-size: 24rpx;
+}
+.content1.data-v-4d5c45ee {
+	margin: 0 5rpx;
+}
+.content2.data-v-4d5c45ee {
+	color: #fd6d49;
+}
+.fotter.data-v-4d5c45ee {
+	width: 94%;
+	height: 80rpx;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.content.data-v-4d5c45ee {
+	margin-left: 24px;
+	font-size: 30rpx;
+	margin-top: 10px;
+	clear: both;
+	/* 清除左右浮动 */
+	word-break: break-word;
+	/* 文本行的任意字内断开，就算是一个单词也会分开 */
+
+	word-wrap: break-word;
+	/* IE */
+
+	white-space: -moz-pre-wrap;
+	/* Mozilla */
+
+	white-space: -hp-pre-wrap;
+	/* HP printers */
+
+	white-space: -o-pre-wrap;
+	/* Opera 7 */
+
+	white-space: -pre-wrap;
+	/* Opera 4-6 */
+
+	white-space: pre;
+	/* CSS2 */
+
+	white-space: pre-wrap;
+	/* CSS 2.1 */
+
+	white-space: pre-line;
+	/* CSS 3 (and 2.1 as well, actually) */
+}
+.icon.data-v-4d5c45ee {
+	display: flex;
+	align-items: center;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.count.data-v-4d5c45ee {
+	color: #5c5c5c;
+	font-size: 30rpx;
+}
+.loadStyle.data-v-4d5c45ee {
+	margin-top: 20rpx;
+	width: 100%;
+	height: 60rpx;
+	text-align: center;
+	color: #bfbfbf;
+}
+@-webkit-keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 1;
+}
+50% {
+		opacity: 0.5;
+}
+100% {
+		opacity: 0;
+}
+}
+@keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 1;
+}
+50% {
+		opacity: 0.5;
+}
+100% {
+		opacity: 0;
+}
+}
+@-webkit-keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 0;
+}
+50% {
+		opacity: 0.5;
+}
+100% {
+		opacity: 1;
+}
+}
+@keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 0;
+}
+50% {
+		opacity: 0.5;
+}
+100% {
+		opacity: 1;
+}
+}
+@-webkit-keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 0;
+}
+50% {
+		opacity: 1;
+}
+}
+@keyframes fadeinout-data-v-4d5c45ee {
+0% {
+		opacity: 0;
+}
+50% {
+		opacity: 1;
+}
+}
+

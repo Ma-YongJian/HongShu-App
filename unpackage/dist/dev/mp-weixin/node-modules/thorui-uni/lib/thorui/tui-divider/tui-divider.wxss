@@ -1,0 +1,26 @@
+
+.tui-divider.data-v-cdd0b22e {
+	width: 100%;
+	position: relative;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.tui-divider-line.data-v-cdd0b22e {
+	position: absolute;
+	height: 1px;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: scaleY(0.5) translateX(-50%) translateZ(0);
+	transform: scaleY(0.5) translateX(-50%) translateZ(0);
+}
+.tui-divider-text.data-v-cdd0b22e {
+	position: relative;
+	text-align: center;
+	padding: 0 18rpx;
+	z-index: 1;
+}
+

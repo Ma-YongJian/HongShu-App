@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tui-bottom-popup": "/node-modules/thorui-uni/lib/thorui/tui-bottom-popup/tui-bottom-popup",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "tui-button": "/node-modules/thorui-uni/lib/thorui/tui-button/tui-button",
+    "comment": "/components/comment"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "红薯",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-navigation-bar": "/node-modules/thorui-uni/lib/thorui/tui-navigation-bar/tui-navigation-bar",
+    "tui-tabs": "/node-modules/thorui-uni/lib/thorui/tui-tabs/tui-tabs",
+    "tui-drawer": "/node-modules/thorui-uni/lib/thorui/tui-drawer/tui-drawer",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "uv-waterfall": "/uni_modules/uv-waterfall/components/uv-waterfall/uv-waterfall",
+    "uni-list": "/uni_modules/uni-list/components/uni-list/uni-list",
+    "hot": "/pages/index/hot/hot",
+    "follow": "/pages/index/follow/follow"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "waterfall-flow-image": "/uni_modules/pp-waterfall-flow/components/waterfall-flow-image/waterfall-flow-image",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon"
+  }
+}

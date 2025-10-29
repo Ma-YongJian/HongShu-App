@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-button": "/node-modules/thorui-uni/lib/thorui/tui-button/tui-button",
+    "tui-grid": "/node-modules/thorui-uni/lib/thorui/tui-grid/tui-grid",
+    "tui-grid-item": "/node-modules/thorui-uni/lib/thorui/tui-grid-item/tui-grid-item"
+  }
+}

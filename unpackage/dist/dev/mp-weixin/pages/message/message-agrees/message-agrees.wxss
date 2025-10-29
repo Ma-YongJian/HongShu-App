@@ -1,0 +1,106 @@
+.container.data-v-980243c4 {
+	padding-bottom: env(safe-area-inset-bottom);
+}
+.nav.data-v-980243c4 {
+	display: flex;
+	align-items: center;
+}
+.page.data-v-980243c4 {
+	height: 85vh;
+}
+.tui-item-box.data-v-980243c4 {
+	width: 100%;
+	display: flex;
+}
+.tui-msg-box.data-v-980243c4 {
+	display: flex;
+	align-items: center;
+}
+.tui-msg-pic.data-v-980243c4 {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	display: block;
+	margin-right: 24rpx;
+	flex-shrink: 0;
+}
+.tui-msg-img.data-v-980243c4 {
+	width: 120rpx;
+	height: 160rpx;
+	border-radius: 5px;
+	display: block;
+	margin-right: 24rpx;
+	flex-shrink: 0;
+}
+.tui-msg-item.data-v-980243c4 {
+	width: 400rpx;
+
+	min-height: 80rpx;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.tui-msg-type.data-v-980243c4 {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	font-size: 25rpx;
+}
+.tui-msg-type-item.data-v-980243c4{
+	width: 160rpx;
+}
+.tui-msg-time.data-v-980243c4 {
+	width: 140rpx;
+	font-size: 24rpx;
+	line-height: 24rpx;
+	margin-left: 20rpx;
+	color: #9397a4;
+}
+.tui-msg-name.data-v-980243c4 {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-size: 30rpx;
+	line-height: 1;
+	color: #262b3a;
+}
+.tui-msg-content.data-v-980243c4 {
+	max-width: 380rpx;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-size: 25rpx;
+	line-height: 2;
+	color: #9397a4;
+	margin-left: 10px;
+}
+.tui-msg-content.data-v-980243c4::before {
+	content: "|";
+	color: #f90000;
+}
+.tui-msg-right.data-v-980243c4 {
+	width: 120rpx;
+	height: 88rpx;
+	margin-left: auto;
+	text-align: right;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.tui-msg-right image.data-v-980243c4 {
+	  max-width: 88rpx;
+}
+.tui-right-dot.data-v-980243c4 {
+	height: 76rpx !important;
+	padding-bottom: 10rpx !important;
+}
+.loadStyle.data-v-980243c4 {
+	margin-top: 20rpx;
+	width: 100%;
+	height: 60rpx;
+	text-align: center;
+	color: #bfbfbf;
+}
+

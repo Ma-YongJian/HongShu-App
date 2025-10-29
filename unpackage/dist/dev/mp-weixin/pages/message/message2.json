@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tui-navigation-bar": "/node-modules/thorui-uni/lib/thorui/tui-navigation-bar/tui-navigation-bar",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "tui-badge": "/node-modules/thorui-uni/lib/thorui/tui-badge/tui-badge",
+    "tui-swipe-action": "/node-modules/thorui-uni/lib/thorui/tui-swipe-action/tui-swipe-action"
+  }
+}

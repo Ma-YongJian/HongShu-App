@@ -1,0 +1,38 @@
+
+.tui-popup-list.data-v-4a283a02 {
+	z-index: 1;
+	transition: all 0.3s ease-in-out;
+	opacity: 0;
+	visibility: hidden;
+}
+.tui-flex-end.data-v-4a283a02 {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+.tui-triangle.data-v-4a283a02 {
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	z-index: 997;
+}
+.tui-popup-mask.data-v-4a283a02 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 995;
+	transition: all 0.3s ease-in-out;
+	opacity: 0;
+	visibility: hidden;
+}
+.tui-popup-show.data-v-4a283a02 {
+	opacity: 1;
+	visibility: visible;
+}
+.tui-z_index.data-v-4a283a02 {
+	z-index: 996;
+}
+

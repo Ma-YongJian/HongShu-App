@@ -1,0 +1,32 @@
+.container.data-v-253ab787 {
+	width: 90%;
+}
+.nav.data-v-253ab787 {
+	display: flex;
+	align-items: center;
+	background-color: #fff;
+	height: 80rpx;
+}
+.top.data-v-253ab787 {
+	padding-top: 40px;
+}
+.title.data-v-253ab787 {
+	text-align: center;
+	font-size: 30px;
+}
+.main.data-v-253ab787 {
+	margin-left: 40rpx;
+}
+.info-input.data-v-253ab787 {
+	margin-top: 10px;
+	height: 60rpx;
+	border-bottom: 1px solid #f4f4f4;
+}
+.code.data-v-253ab787 {
+	display: flex;
+	align-items: center;
+}
+.regist.data-v-253ab787 {
+	margin-top: 20px;
+}
+

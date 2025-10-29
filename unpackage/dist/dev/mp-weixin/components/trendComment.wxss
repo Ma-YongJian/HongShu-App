@@ -1,0 +1,113 @@
+
+._ul.data-v-10cc83bd {
+	padding: 40rpx;
+}
+._li.data-v-10cc83bd {
+	list-style: none;
+	margin-top: 20px;
+}
+.page.data-v-10cc83bd {
+	height: 70vh;
+}
+.item-top.data-v-10cc83bd {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.left.data-v-10cc83bd {
+	display: flex;
+	align-items: center;
+}
+.left image.data-v-10cc83bd {
+	width: 60rpx;
+	height: 60rpx;
+	border-radius: 50%;
+}
+.comment-two.data-v-10cc83bd {
+	margin-top: 10rpx;
+	margin-left: 80rpx;
+}
+.other.data-v-10cc83bd {
+	margin-left: 160rpx;
+	color: #5555ff;
+	font-size: 28rpx;
+}
+.reply.data-v-10cc83bd {
+	color: #939393;
+}
+.time.data-v-10cc83bd {
+	color: #939393;
+	font-size: 18rpx;
+}
+.item-main.data-v-10cc83bd {
+
+	margin-left: 80rpx;
+	margin-right: 80rpx;
+	font-size: 28rpx;
+	clear: both;
+	/* 清除左右浮动 */
+	word-break: break-word;
+	/* 文本行的任意字内断开，就算是一个单词也会分开 */
+
+	word-wrap: break-word;
+	/* IE */
+
+	white-space: -moz-pre-wrap;
+	/* Mozilla */
+
+	white-space: -hp-pre-wrap;
+	/* HP printers */
+
+	white-space: -o-pre-wrap;
+	/* Opera 7 */
+
+	white-space: -pre-wrap;
+	/* Opera 4-6 */
+
+	white-space: pre;
+	/* CSS2 */
+
+	white-space: pre-wrap;
+	/* CSS 2.1 */
+
+	white-space: pre-line;
+	/* CSS 3 (and 2.1 as well, actually) */
+	word-break: break-all
+}
+.loadStyle.data-v-10cc83bd {
+	margin-top: 20rpx;
+	width: 100%;
+	height: 60rpx;
+	text-align: center;
+	color: #bfbfbf;
+	padding-bottom: 200rpx;
+}
+.fotter.data-v-10cc83bd {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	left: 0px;
+	bottom: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: #fff;
+	z-index: 999;
+}
+.fotter .input-comment.data-v-10cc83bd {
+
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 450rpx;
+	height: 60rpx;
+	background-color: #f1f1f1;
+	padding-left: 10px;
+	bottom: 0;
+}
+.icon.data-v-10cc83bd {
+	width: 180rpx;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+

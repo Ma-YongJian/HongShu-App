@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tui-tag": "/node-modules/thorui-uni/lib/thorui/tui-tag/tui-tag",
+    "tui-icon": "/node-modules/thorui-uni/lib/thorui/tui-icon/tui-icon",
+    "tui-actionsheet": "/node-modules/thorui-uni/lib/thorui/tui-actionsheet/tui-actionsheet"
+  },
+  "component": true
+}

@@ -1,0 +1,42 @@
+
+.tui-navigation-bar.data-v-737a6242 {
+	width: 100%;
+	transition: opacity 0.4s;
+}
+.tui-backdrop__filter.data-v-737a6242 {
+	/* Safari for macOS & iOS */
+	-webkit-backdrop-filter: blur(15px);
+	/* Google Chrome */
+	backdrop-filter: blur(15px);
+}
+.tui-navbar-fixed.data-v-737a6242 {
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+.tui-status-bar.data-v-737a6242 {
+	width: 100%;
+}
+.tui-navigation_bar-title.data-v-737a6242 {
+	width: 100%;
+	font-size: 17px;
+	line-height: 17px;
+
+	font-weight: 500;
+
+	height: 32px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.tui-bar-line.data-v-737a6242::after {
+	content: '';
+	position: absolute;
+	border-bottom: 1rpx solid #eaeef1;
+	-webkit-transform: scaleY(0.5);
+	transform: scaleY(0.5);
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
