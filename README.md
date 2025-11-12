@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo" src="https://image.mayongjian.cn/2024/07/03/1de3ee08e0a34ab6bf9a163d380fb596.png" width="100"/>
+  <img alt="logo" src="https://image.mayongjian.cn/2025/11/11/d6ab67fa0291468ea68afdfb18217ae4.png" width="100"/>
 </p>
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">HongShu</h1>
@@ -27,17 +27,15 @@
 > 本项目基于 MIT 协议，免费开源，仅供学习交流，禁止转卖，谨防受骗。如需商用请保留版权信息，确保合法合规使用，运营风险自负，与作者无关。
 
 ---
+### 🎓 适合人群
+
+|                       👨‍💻 **全栈开发者**                       | 🎯 **求职者** | 🏢 **创业团队** | 📚 **学生党** |
+|:-----------------------------------------------------------:|:---:|:---:|:---:|
+| 学习 SpringBoot + Vue + Uniapp 全栈开发<br>了解微服务架构设计<br>掌握前后端分离开发 | 简历项目经验<br>面试技术亮点<br>实战能力证明 | 快速搭建社交平台<br>二次开发定制<br>商业化落地 | 毕业设计项目<br>技术栈学习<br>实战经验积累 |
 
 ## 🚀 项目简介
 
 HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，采用 SpringBoot + Vue + Uniapp 前后端分离架构，完整复刻小红书核心功能，并创新性集成多模态 AI 技术，打造智能化的内容创作与社交体验。
-
-### 🎓 适合人群
-
-| 👨‍💻 **全栈开发者** | 🎯 **求职者** | 🏢 **创业团队** | 📚 **学生党** |
-|:---:|:---:|:---:|:---:|
-| 学习 SpringBoot + Vue 全栈开发<br>了解微服务架构设计<br>掌握前后端分离开发 | 简历项目经验<br>面试技术亮点<br>实战能力证明 | 快速搭建社交平台<br>二次开发定制<br>商业化落地 | 毕业设计项目<br>技术栈学习<br>实战经验积累 |
-
 
 ### 📂 项目组成
 
@@ -51,7 +49,6 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 ### 🏗️ 技术选型
 
 <table>
-<tr>
 <td width="33%">
 
 #### 后端技术栈
@@ -90,35 +87,34 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 - **文档**：Swagger
 
 </td>
-</tr>
 </table>
 
 ---
 
 ## 🌟 项目特色
 
-| 功能模块      | 技术实现                                                            | 创新点                             |
-|-----------|-----------------------------------------------------------------|---------------------------------|
-| 🎯 智能推荐   | 轻量级推荐 + 协同过滤 + ES检索 动态切换                                       | ✅ 三套算法、新用户优化、性能<100ms         |
-| 💬 即时通讯   | WebSocket + Netty + RocketMQ                                    | ✅ 离线消息、多端同步、高并发支持             |
-| 🏪 社交电商   | 笔记种草 + 商品转化 + 在线支付                                             | ✅ 价格区间推荐、同城优先、闭环转化           |
-| 🔥 高并发优化  | Redis + RocketMQ 双通道 + 批量落库                                    | ✅ 性能提升20倍、数据库压力降低90%          |
-| 🤖 AI大模型  | ChatGPT + DeepSeek + 多模型适配                                     | ✅ 8+模型支持、智能创作、对话系统            |
-| 🔐 安全认证   | 双Token无感刷新 + JWT                                               | ✅ 用户无感知、安全可靠                  |
-| ☁️ 多云存储   | 本地 + Minio + 七牛云 + 阿里云 + 腾讯云                                   | ✅ 动态切换、后台配置                    |
-| 🔍 智能搜索   | ElasticSearch + MySQL 双引擎                                      | ✅ 多字段权重、模糊匹配                  |
-| 📍 LBS定位  | 高德地图 + IP定位                                                    | ✅ 同城推荐、附近内容                    |
-| 💳 在线支付   | 支付宝沙箱支付                                                         | ✅ 完整支付流程                       |
-| 📱 多端适配   | Web + App + 小程序                                                | ✅ 代码复用、统一API                   |
-| 📊 数据统计   | 用户增长、内容统计、交易分析                                                  | ✅ 可视化图表、实时监控                  |
+| 功能模块 | 技术实现                                                            | 创新点                             |
+|------|-----------------------------------------------------------------|---------------------------------|
+| 智能推荐 | 轻量级推荐 + 协同过滤 + ES检索 动态切换                                       | ✅ 三套算法、新用户优化、性能<100ms         |
+| 即时通讯 | WebSocket + Netty + RocketMQ                                    | ✅ 离线消息、多端同步、高并发支持             |
+| 社交电商 | 笔记种草 + 商品转化 + 在线支付                                             | ✅ 价格区间推荐、同城优先、闭环转化           |
+| 高并发优化 | Redis + RocketMQ 双通道 + 批量落库                                    | ✅ 性能提升20倍、数据库压力降低90%          |
+| AI大模型 | ChatGPT + DeepSeek + 多模型适配                                     | ✅ 8+模型支持、智能创作、对话系统            |
+| 安全认证 | 双Token无感刷新 + JWT                                               | ✅ 用户无感知、安全可靠                  |
+| 多云存储 | 本地 + Minio + 七牛云 + 阿里云 + 腾讯云                                   | ✅ 动态切换、后台配置                    |
+| 智能搜索 | ElasticSearch + MySQL 双引擎                                      | ✅ 多字段权重、模糊匹配                  |
+| LBS定位 | 高德地图 + IP定位                                                    | ✅ 同城推荐、附近内容                    |
+| 在线支付 | 支付宝沙箱支付                                                         | ✅ 完整支付流程                       |
+| 多端适配 | Web + App + 小程序                                                | ✅ 代码复用、统一API                   |
+| 数据统计 | 用户增长、内容统计、交易分析                                                  | ✅ 可视化图表、实时监控                  |
 
 ---
 
 ## 📅 版本演进
 > `💡 点击下方版本号可展开查看版本详情`
->  [如需 Pro 版源码，👉点击获取](https://www.yuque.com/xiaomage-ippj7/kaoqwn/rqslw69egcbgx7v7?singleDoc#)
+>  [如需 Pro 版源码，👉 点击获取 👈](https://www.yuque.com/xiaomage-ippj7/kaoqwn/rqslw69egcbgx7v7?singleDoc#)
 <details>
-<summary><b>v1.0（Lite版）</b>- 基础功能</summary>
+<summary><b>v1.0（Lite版）</b></summary>
 
 - ✅ ES 智能查询
 - ✅ 笔记随机推荐
@@ -129,7 +125,7 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 </details>
 
 <details>
-<summary><b>v2.0（Pro版）</b>- 移动端 + 协同过滤</summary>
+<summary><b>v2.0（Pro版）</b></summary>
 
 - ✅ Uniapp 移动端（App + H5）
 - ✅ 视频笔记支持
@@ -140,21 +136,22 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 </details>
 
 <details>
-<summary><b>v3.0（Pro版）</b>- 微服务 + 社交电商</summary>
+<summary><b>v3.0（Pro版）</b></summary>
 
 - ✅ SpringCloud 微服务架构
 - ✅ Nacos 配置中心
-- ✅ Netty 即时通讯系统
+- ✅ WebSocket 即时通讯系统
 - ✅ 闲置商城（社交电商融合）
 - ✅ 高德地图 LBS 定位
 - ✅ Redis + RocketMQ 高并发优化
-- ✅ WebSocket 离线消息推送
 
 </details>
 
 <details>
-<summary><b>v4.0（Pro版）</b>- AI + 小程序 + 轻量级推荐</summary>
+<summary><b>v4.0（Pro版）</b></summary>
 
+- ✅ 支持扫码登录
+- ✅ WebSocket 离线消息推送
 - ✅ 8+ 主流AI大模型集成
 - ✅ 智能对话系统
 - ✅ AI辅助创作
@@ -166,6 +163,15 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 
 </details>
 
+<details>
+<summary><b>v5.0（Pro版）</b>- 微信相关功能开发中</summary>
+
+- ✅ 微信登录
+- ✅ 微信支付
+- ✅ 微信对话、朋友圈分享
+
+</details>
+
 ---
 
 ## 🌐 演示站（微服务版本 - 演进更新）
@@ -173,13 +179,13 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 > 💡 **温馨提示**: 服务器配置有限，如遇访问缓慢请耐心等待
 > `小龟速服务器正在奔跑中...`
 
-| 端类型 | 访问方式                                                                           | 功能说明 | 推荐指数 |
-|--------|--------------------------------------------------------------------------------|--------|---------|
-| **Web端** | [点击访问](https://hongshu.website/) | 完整功能体验，PC最佳 | ⭐⭐⭐⭐⭐ |
-| **管理端** | [点击访问](https://hongshu.website/admin/) | 传统后台管理 | ⭐⭐⭐⭐ |
-| **Arco管理端** | [点击访问](https://hongshu.website/arco-admin/) | 现代化管理界面 | ⭐⭐⭐⭐⭐ |
-| **移动端(H5)** | [点击访问](https://hongshu.website/app/) 或 <img src="doc/images/h5.png" width="80"/> | 移动端最佳体验 | ⭐⭐⭐⭐⭐ |
-| **微信小程序** | 体验版 <img src="doc/images/wxamp.png" width="80"/> | 小程序生态 | ⭐⭐⭐⭐⭐ |
+| 端类型 | 访问方式                                                                                     | 功能说明 | 推荐指数 |
+|--------|------------------------------------------------------------------------------------------|--------|---------|
+| **Web端** | [👉 点击访问](https://hongshu.website/)                                                      | 完整功能体验，PC最佳 | ⭐⭐⭐⭐⭐ |
+| **管理端** | [👉 点击访问](https://hongshu.website/admin/)                                                | 传统后台管理 | ⭐⭐⭐⭐ |
+| **Arco管理端** | [👉 点击访问](https://hongshu.website/arco-admin/)                                           | 现代化管理界面 | ⭐⭐⭐⭐⭐ |
+| **移动端(H5)** | [👉 点击访问](https://hongshu.website/app/) 或 扫码体验 <img src="doc/images/h5.png" width="80"/> | 移动端最佳体验 | ⭐⭐⭐⭐⭐ |
+| **微信小程序** | 体验版 <img src="doc/images/wxamp.png" width="80"/>                                         | 小程序生态 | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -237,7 +243,7 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
 ## 📚 项目文档
 
 - [部署文档](https://www.yuque.com/xiaomage-ippj7/kaoqwn/zdgtgrco82vftbot?singleDoc#)
-- [核心亮点文档](https://www.yuque.com/xiaomage-ippj7/kaoqwn/chm8w6thvrmtnmbk)
+- [核心文档](https://www.yuque.com/xiaomage-ippj7/kaoqwn/chm8w6thvrmtnmbk)
 
 ## 🎬 视频演示
 
@@ -257,20 +263,18 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
   </tr>
   <tr>
     <td><img src="doc/images/web/web-trends-note.png" width="500"/></td>
-    <td><img src="doc/images/web/web-trends-idle.png" width="500"/></td>
-    <td><img src="doc/images/web/web-publish.png" width="500"/></td>
+    <td><img src="doc/images/web/web-message.png" width="500"/></td>
+    <td><img src="doc/images/web/web-user.png" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="doc/images/web/web-publish-map.png" width="500"/></td>
+    <td><img src="doc/images/web/web-publish.png" width="500"/></td>
     <td><img src="doc/images/web/web-publish-img.png" width="500"/></td>
     <td><img src="doc/images/web/web-publish-video.png" width="500"/></td>
   </tr>
   <tr>
     <td><img src="doc/images/web/web-message-comment.png" width="500"/></td>  
-    <td><img src="doc/images/web/web-message-like.png" width="500"/></td>
-    <td><img src="doc/images/web/web-user.png" width="500"/></td>
-  </tr>
-  <tr>
+    <td><img src="doc/images/web/web-message-notice.png" width="500"/></td>
+    <td><img src="doc/images/web/web-message-chat.png" width="500"/></td>
   </tr>
 </table>
 
@@ -310,15 +314,15 @@ HongShu - 一款深度融合 AI 大模型能力的现代化社交电商平台，
   </tr>
   <tr>
     <td><img src="doc/images/app/app-idle.png" width="300"/></td>
-    <td><img src="doc/images/app/app-user.png" width="300"/></td>
     <td><img src="doc/images/app/app-main.png" width="300"/></td>
-    <td><img src="doc/images/app/app-user-mine.png" width="300"/></td>
+    <td><img src="doc/images/app/app-user.png" width="300"/></td>
+    <td><img src="doc/images/app/app-publish.png" width="300"/></td>
   </tr>
   <tr>
     <td><img src="doc/images/app/app-message.png" width="300"/></td>
-    <td><img src="doc/images/app/app-message-follow.png" width="300"/></td>
-    <td><img src="doc/images/app/app-message-comment.png" width="300"/></td>
-    <td><img src="doc/images/app/app-message-like.png" width="300"/></td>
+    <td><img src="doc/images/app/app-message-notice.png" width="300"/></td>
+    <td><img src="doc/images/app/app-menu.png" width="300"/></td>
+    <td><img src="doc/images/app/app-user-mine.png" width="300"/></td>
   </tr>
 </table>
 
